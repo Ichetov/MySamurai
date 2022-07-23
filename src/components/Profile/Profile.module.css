@@ -1,0 +1,9 @@
+.content{
+grid-area: conten;
+background-color: blue;
+}
+
+.mix{
+  height: 400px;
+}
+
